@@ -1,0 +1,41 @@
+.navbar-brand {
+    padding: 3%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 140%;
+}
+
+.container {
+    margin-top: 5%;
+    padding: 6%;
+    background-color: #ffeef5;
+    margin-bottom: 20%;
+}
+
+h1 {
+    font-family: 'Magra', sans-serif;
+    color: #ff5880;
+}
+
+.phead {
+    padding-top: 5%;
+    font-family: 'Magra', sans-serif;
+    color: #ff5880;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.raw {
+    margin-top: 5%;
+    margin: 5%;
+    padding: 6%;
+    background-color: #ffeef5;
+    margin-bottom: 20%;
+}
+
+.workimg {
+    width: 50%;
+}
+
+#workcol {
+    padding: 5%;
+}
